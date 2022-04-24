@@ -1,4 +1,5 @@
 # SKKUThesis
+* Combining techniques from AutoGrader and Refactory, Created an equivalence check of student's correct data and repaired using programs equivalent to reference program given by the professor.
 # Prerequisites 
 * unzip data_old.zip
 * unzip data_after_EC.zip
